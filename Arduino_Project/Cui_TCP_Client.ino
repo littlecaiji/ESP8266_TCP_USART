@@ -4,7 +4,7 @@
 #define LED_OFF digitalWrite(LED_BUILTIN, HIGH)
 
 const char* ssid = "Robocon";
-const char* pswd = "duoguanriben8";
+const char* pswd = "xxxxxxxxx";
 const char* host = "192.168.2.105";
 const int port = 8266;
 const char* streamID = "";
